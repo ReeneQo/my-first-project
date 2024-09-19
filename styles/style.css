@@ -62,7 +62,6 @@
 
 .cover-image {
     width: 340px;
-    height: 221px;
     background-image: url('cover.svg');
     margin: 0 0 0 20px;
 }
@@ -91,7 +90,6 @@
 .lista {
     display: flex;
     flex-direction: row-reverse;
-    margin-bottom: 20px;
     margin-right: 20px;
 }
 
