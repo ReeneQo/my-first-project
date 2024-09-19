@@ -152,20 +152,21 @@
     justify-content: center;
     height: 63px;
     padding: 0;
-    margin: 35px 20px 20px 32px;
+    margin: 35px 5px 32px 0px;
 }
 
 .content-title {
-    display: flex;
     font-family: "ebgaramond";
-    font-size: 28px;
-    padding-left: 57px;
+    font-size: 25px;
+    margin-left: 77px;
+    font-weight: 500px;
 }
 
 .content-title1 {
-    display: flex;
     font-family: "ebgaramond";
-    font-size: 28px;
+    font-size: 25px;
+    margin-left: 20px;
+    font-weight: 500px;
 }
 
 .content-section__introduction {
@@ -213,29 +214,23 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 63px;
-    margin-top: 40px; 
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 32px;
+    margin: 40px 5px 32px 0px;
 }
 
 .how-to-title {
-    display: flex;
-    flex-wrap: nowrap;
     font-family: "ebgaramond";
     color: #f5f5f5;
-    font-size: 28px;
-    font-weight: 400px;
-    padding-left: 63px;
+    font-size: 27px;
+    font-weight: 500px;
+    margin-left: 63px;
 }
 
 .how-to-title1 {
-    display: flex;
     font-family: "ebgaramond";
     color: #f5f5f5;
-    font-size: 28px;
+    font-size: 27px;
     font-weight: 500px;
+    margin-left: 20px;
 }
 
 .how-to-text {
